@@ -1,0 +1,6 @@
+2025-08-23 14:29:13 INFO  TC_001Registration:17 - Starting the Application
+2025-08-23 14:29:13 INFO  TC_001Registration:23 - Clicking on my account
+2025-08-23 14:29:13 INFO  TC_001Registration:27 - Clicking on Register
+2025-08-23 14:29:13 INFO  TC_001Registration:32 - Providing Customer Details
+2025-08-23 14:29:15 INFO  TC_001Registration:45 - Validating the Message
+2025-08-23 14:29:15 INFO  TC_001Registration:63 - Finished Test...
